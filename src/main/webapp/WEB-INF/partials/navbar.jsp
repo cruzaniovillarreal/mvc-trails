@@ -10,11 +10,12 @@
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
-            <a class="navbar-brand" href="/ads">Landing Page</a>
+            <a class="navbar-brand" href="/ads">Ads</a>
         </div>
-        <ul class="nav navbar-nav navbar-right">
-            <li><a href="/login">Login</a></li>
-        </ul>
+
+        <div class="nav navbar-nav navbar-right">
+            <a href="/login">Login</a>
+        </div>
     </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>
