@@ -11,7 +11,7 @@
     <title>Profile Page</title>
 </head>
 <body>
-
+<jsp:include page="partials/navbar.jsp" />
 <h1>Welcome, ${sessionScope.user}!</h1>
 
 </body>
